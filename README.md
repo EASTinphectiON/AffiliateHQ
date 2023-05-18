@@ -1,0 +1,2 @@
+# AffiliateHQ
+The Affiliate Headquarters
