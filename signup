@@ -1,0 +1,55 @@
+<h1>The Affiliate HQ</h1>
+<i>"TAP into the Digital Economy with US"</i>
+
+<p> <body> Comissions are +$30/month per each referal
+</body> </p>
+
+<p> </body> TAP Memberships are 99/month per USER
+
+<form action="action_page.php" style="border:1px solid #ccc">
+  <div class="container">
+    <h1> Sign Up </h1>
+    <p>Please fill in this form to create an account.</p>
+    <hr>
+   
+    <p></p>
+    <label for="phone"><b>Phone</b></label>
+    <input type="text" placeholder="Enter Phone" name="Phone" required>
+
+<p></p>
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+<P></P>
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <p> </p><label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+      
+       <p></p>
+<label for="referred by"><b> Reffered By: </b></label>
+   <input type="text" placeholder="Name" name="Name" not required>
+   
+    <p></p>
+    <label>
+      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+    </label>
+
+<p></p>
+    <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
+   
+  
+
+    <div class="clearfix">
+      <button type="button" class="cancelbtn">Cancel</button>
+      <button type="submit" class="signupbtn">Sign Up</button>
+    </div>
+  </div>
+</form>
+
+ABOUT US
+
+The Affiliate Heaquaters is optimized for learning and training. Examples might be simplified to improve reading and learning. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using the Affiliate Pl, you agree to have read and accepted our terms of use, cookie and privacy policy.
+
+Copyright 2023 The affiliate HQ - All Rights Reserved
